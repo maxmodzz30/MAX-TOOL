@@ -1,3 +1,4 @@
 # FPS
 git clone https://github.com/maxmodzz30/FPS
-cd 
+chmod +x setup 
+./setup
