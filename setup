@@ -16,5 +16,5 @@ if [ -f $HOME/MAX-FPS/FPS ]; then
     mv $HOME/MAX-FPS/FPS $PREFIX/bin
 fi
 
-chmod +x $HOME/MAX-FPS/FPS
-./FPS
+chmod +x $HOME/MAX-FPS/120FPS
+./120FPS
